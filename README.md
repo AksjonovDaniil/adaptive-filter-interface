@@ -32,14 +32,14 @@ Projektā tiks realizēta filtru sintaktiskā un semantiskā pārbaude, lietotā
 
 ## Projekta struktūra
 
-- `docs/` — projekta dokumentācija
-- `src/lexer/` — leksiskā analīze
-- `src/parser/` — sintaktiskā analīze
-- `src/semantics/` — semantiskā analīze
-- `src/ir/` — starpkods
-- `src/ui/` — lietotāja interfeiss
-- `src/adaptation/` — adaptācijas modulis
-- `tests/` — testi
+- `docs/` - projekta dokumentācija
+- `src/lexer/` - leksiskā analīze
+- `src/parser/` - sintaktiskā analīze
+- `src/semantics/` - semantiskā analīze
+- `src/ir/` - starpkods
+- `src/ui/` - lietotāja interfeiss
+- `src/adaptation/` - adaptācijas modulis
+- `tests/` - testi
 
 ## Palaišana
 
